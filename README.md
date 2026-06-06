@@ -4,7 +4,7 @@
 [cite_start]This project focuses on transforming raw, fragmented retail sales data into a centralized, interactive analytics dashboard[cite: 121]. [cite_start]The primary goal is to perform a financial integrity audit, isolate key profitability drivers, evaluate demographic concentrations, and detect regional market expansion opportunities to optimize bottom-line business performance[cite: 121, 128, 131, 132, 133].
 
 ## 📊 Live Dashboard Preview
-![E-Commerce Dashboard](dashboard_screenshot.png)
+![E-Commerce Dashboard](dashboard_screenshot.png.png)
 
 ## 🛠️ Tech Stack & Tools Used
 * [cite_start]**Data Transformation & Auditing:** MS Excel (`XLOOKUP`, `PROPER`, `TRIM` functions) [cite: 126, 127]
